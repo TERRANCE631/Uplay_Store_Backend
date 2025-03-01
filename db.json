@@ -1,0 +1,119 @@
+{
+  "users": [],
+  "products": [
+    {
+      "name": "Alone in the dark 2",
+      "brand": "FPB",
+      "category": "Printers",
+      "price": 1200,
+      "sale": true,
+      "sale_perc": 20,
+      "description": "Alone in the dark 2 is a game with 100+ controls of different skills, weapons, and items. it's an open world game, surviving in the darkest situation and finding a way out of the situation by killing hard to kill enemies is the character's must do.  ",
+      "imageFileName": "1740843501051_Alone-in-the-dark-2.jpg",
+      "id": 371248480
+    },
+    {
+      "name": "Anno 1800 Console Edition",
+      "brand": "Ubisoft ",
+      "category": "Printers",
+      "price": 600,
+      "sale": true,
+      "sale_perc": 20,
+      "description": "Anno 1800 Console Edition is a game with 300+ controls of different skills, weapons, and items. it's an open world game, surviving in the darkest situation and finding a way out of the situations by killing hard to kill enemies is the character's must do.",
+      "imageFileName": "1740843991569_Anno-1800-Console-Edition.jpg",
+      "id": 636428174
+    },
+    {
+      "name": "Anthem 1",
+      "brand": "EA Sports",
+      "category": "Printers",
+      "price": 1500,
+      "description": "Anthem 1 is a game with 400+ controls of different skills, weapons, and items. it's an open world game, surviving in the darkest situation and finding a way out of the situations by killing hard to kill enemies is the character's must do.",
+      "imageFileName": "1740844163815_Anthem-1.jpg",
+      "id": 20175334,
+      "sale": false
+    },
+    {
+      "name": "Assassins Creed 3 Remastered 1",
+      "brand": "Ubisoft",
+      "category": "Printers",
+      "price": 1800,
+      "description": "Assassins Creed 3 Remastered 1 is a game with 500+ controls of different skills, weapons, and items. it's an open world game, surviving in the darkest situation and finding a way out of the situations by killing hard to kill enemies is the assassin's must do.",
+      "imageFileName": "1740844295276_Assassins-Creed-3-Remastered-1.jpg",
+      "id": 270149217,
+      "sale": false
+    },
+    {
+      "name": "Assassins Creed Mirage",
+      "brand": "Ubisoft",
+      "category": "Printers",
+      "price": 1800,
+      "sale": true,
+      "sale_perc": 50,
+      "description": "Assassins Creed Mirage is a game with 500+ controls of different skills, weapons, and items. it's an open world game, surviving in the darkest situation and finding a way out of the situations by killing hard to kill enemies is the assassin's must do.",
+      "imageFileName": "1740844423093_Assassins-Creed-Mirage.jpg",
+      "id": 682359568
+    },
+    {
+      "name": "Assassins Creed Rogue Remastered",
+      "brand": "Ubisoft",
+      "category": "Printers",
+      "price": 1800,
+      "description": "Assassins Creed Rogue Remastered is a game with 500+ controls of different skills, weapons, and items. it's an open world game, surviving in the darkest situation and finding a way out of the situations by killing hard to kill enemies is the assassin's must do.",
+      "imageFileName": "1740844798444_Assassins-Creed-Rogue-Remastered.jpg",
+      "id": 718190355,
+      "sale": false
+    },
+    {
+      "name": "Batman Arkham Knight 1",
+      "brand": "FPB, WD",
+      "category": "Printers",
+      "price": 899,
+      "description": "Batman Arkham Knight 1 is a game with 100+ controls of different skills, weapons, and items. it's an open world game, surviving in the darkest situation and finding a way out of the situations by killing hard to kill enemies is the assassin's must do.",
+      "imageFileName": "1740845010971_Batman-Arkham-Knight-1.jpg",
+      "id": 835741495,
+      "sale": false
+    },
+    {
+      "name": "Black Myth Wukong",
+      "brand": "FPB",
+      "category": "Printers",
+      "price": 2000,
+      "description": "Black Myth Wukong is a game with 100+ controls of different skills, weapons, and items. it's an open world game, surviving in the darkest situation and finding a way out of the situations by killing hard to kill enemies is the assassin's must do.",
+      "imageFileName": "1740845255217_Black-Myth-Wukong.jpg",
+      "id": 591056938,
+      "sale": false
+    },
+    {
+      "name": "Call Of Duty Black Ops 6",
+      "brand": "FPB",
+      "category": "Printers",
+      "price": 1400,
+      "description": "Call Of Duty Black Ops 6 is a game with 100+ controls of different skills, weapons, and items. it's an open world game, surviving in the darkest situation and finding a way out of the situations by killing hard to kill enemies is the assassin's must do.",
+      "imageFileName": "1740845382681_Call-Of-Duty-Black-Ops-6-1.jpg",
+      "id": 72545327,
+      "sale": false
+    },
+    {
+      "name": "NBA 2K25",
+      "brand": "2K, FPB",
+      "category": "Printers",
+      "price": 1700,
+      "description": "NBA 2K25 is a game with 100+ controls of different skills, weapons, and items. it's an open world game, surviving in the darkest situation and finding a way out of the situations by killing hard to kill enemies is the assassin's must do.",
+      "imageFileName": "1740845482832_NBA-2K25-1.jpg",
+      "id": 129366116,
+      "sale": false
+    },
+    {
+      "name": "EA Sports FC 25",
+      "brand": "EA Sports",
+      "category": "Printers",
+      "price": 1900,
+      "sale": true,
+      "sale_perc": 10,
+      "description": "EA Sports FC 25 is a game with 100+ controls of different skills, weapons, and items. it's an open world game, surviving in the darkest situation and finding a way out of the situations by killing hard to kill enemies is the assassin's must do.",
+      "imageFileName": "1740845574378_EA-Sports-FC-25-1.jpg",
+      "id": 254650407
+    }
+  ]
+}
