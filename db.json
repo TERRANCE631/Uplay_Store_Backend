@@ -23,6 +23,14 @@
       "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Ik1yR3JlZW5AZXhhbXBsZS5jb20iLCJpYXQiOjE3NDMyODAyOTQsImV4cCI6MTc0MzI4Mzg5NCwic3ViIjoiNTI0Nzk5NzEwIn0.jXcpvIXDbh3OkDdUXBLuqJl21JYNilf4cSvqcgcSeCU",
       "imageFileName": "http://localhost:9000/uploads/1743324068128_for cv.jpg",
       "id": 622213051
+    },
+    {
+      "email": "Mrgreen@example.com",
+      "password": "$2a$10$xWAUzaVrfWQt3aqzJSzF8uyrESZMnRRQoFav4W4gwgLgSbyGMlHEm",
+      "name": "Terrance Nkalanga",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6IlRlcnJhbmNlQGV4YW1wbGUuY29tIiwiaWF0IjoxNzQ2MjAyMjc0LCJleHAiOjE3NDYyMDU4NzQsInN1YiI6IjIyNDI1Mjg2OCJ9.Nn6S-yd_Yx7F7hLhTZ_YmaXwJtp3-L4ku0wnjojve0c",
+      "imageFileName": "http://localhost:9000/uploads/1746203619288_Mr green n Mr blue.jpg",
+      "id": 72248747
     }
   ],
   "products": [
